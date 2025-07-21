@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Sgt. Pepper",
 	"description": "an idiot admires complexity. a genius admires simplicity.",
+	"keywords": [ "why", "would", "a package", "have", "keywords" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},

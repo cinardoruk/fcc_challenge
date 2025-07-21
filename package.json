@@ -4,6 +4,7 @@
 	"description": "an idiot admires complexity. a genius admires simplicity.",
 	"keywords": [ "why", "would", "a package", "have", "keywords", "freecodecamp" ],
 	"license": "AGPLv3",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
